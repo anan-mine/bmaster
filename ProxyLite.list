@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,image.tmdb.org
 DOMAIN-SUFFIX,api.opensubtitles.com
 DOMAIN-SUFFIX,assets.fanart.tv
 DOMAIN-SUFFIX,assets.ca.unraid.net
+DOMAIN-SUFFIX,api.ipify.org
 DOMAIN-KEYWORD,fanart.tv
 DOMAIN-KEYWORD,opensubtitles
 IP-CIDR,8.8.8.8/32,no-resolve
