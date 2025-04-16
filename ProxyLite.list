@@ -29,6 +29,8 @@ DOMAIN-SUFFIX,assets.fanart.tv
 DOMAIN-SUFFIX,assets.ca.unraid.net
 DOMAIN-SUFFIX,api.ipify.org
 DOMAIN-SUFFIX,akm.asia.prd.media.max.com
+DOMAIN-KEYWORD,sessions
+DOMAIN-KEYWORD,bugsnag
 DOMAIN-KEYWORD,embydata
 DOMAIN-KEYWORD,discomax
 DOMAIN-KEYWORD,media.max
